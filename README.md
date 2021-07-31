@@ -8,6 +8,10 @@
   - Linux
   - WSL
   - Code editor
+  - Oh My Zsh + PowerLevel10k
+    - https://github.com/ohmyzsh/ohmyzsh/wiki/Installing-ZSH
+    - https://github.com/ohmyzsh/ohmyzsh
+    - https://github.com/romkatv/powerlevel10k
 - Git
   - Commits
   - push | pull
